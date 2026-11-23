@@ -30,3 +30,6 @@ Prueba local: `uvicorn app:app --reload` y abrir http://127.0.0.1:8000/docs
 | 1.3 | El Word trae seis gráficos al estilo TradingView: reparto, velas del S&P 500, base 100, ganancias y pérdidas diarias con el VaR, backtest y caídas |
 | 1.31 | Código comentado línea por línea en app.py, modelo.py (1.1) y graficos.py (1.1); el funcionamiento y las cifras no cambian |
 | 3.0 | Numeración unificada del servidor, modelo.py y graficos.py con el material del curso; el funcionamiento y las cifras no cambian |
+
+
+Última actualización del repositorio: 23/11/2026.
